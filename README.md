@@ -9,7 +9,7 @@ This website was created using frameworks and libraries like:
 - **Chart.js** to display charts and statics about the user's financial activities.
 - and **Git & Github** to manage version control.
 
-The project was initially worked on in October, when we created the basic structure using a pre-made template provided by Github Studio. Since then, the project has been in halt until December 9th, where the team rushed development to make do before the deadline, which was on December 11th.
+The project was initially worked on in October, when we created the basic structure using a pre-made template provided by Bootstrap Studio. Since then, the project has been in halt until December 9th, where the team rushed development to make do before the deadline, which was on December 11th.
 
 **Expect a lot of malfunctioning, redundant, and messy code within this repository. If you wish to check the source code, Proceed with caution.**
 
