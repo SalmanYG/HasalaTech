@@ -1,6 +1,6 @@
 # Welcome to HasalaTech!
 ## Description
-**HasalahTech** is a website that allow its users to create wallets, manage bills, and track spendings, all in one website. This website was created by **KFUPM** students as a **SWE363** course project, so it's not meant to be used in real life *in its current state*.
+**HasalaTech** is a website that allow its users to create wallets, manage bills, and track spendings, all in one website. This website was created by **KFUPM** students as a **SWE363** course project, so it's not meant to be used in real life *in its current state*.
 
 This website was created using frameworks and libraries like: 
 - **Bootstrap Studio** to create the structure of the website.
